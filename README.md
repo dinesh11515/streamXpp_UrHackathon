@@ -16,3 +16,6 @@ Smarts contracts are deployed to polygon mumbai testnet ([link](https://mumbai.p
 
 #### Replit :
 Project was created and deployed using Replit ([link](https://replit.com/@DineshAitham/streamApp))
+
+#### Shardeum :
+Smarts contracts are deployed to Shardeum ([link](https://explorer-liberty20.shardeum.org/account/0x55da378fcfd6ce92e7a8ae65769c19685ece3eaa))
